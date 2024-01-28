@@ -1,10 +1,7 @@
-<a href="https://iconscout.com/lottie-animation/programmer-4375641">Visit W3Schools.com!</a>
+<img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" >
 
 
 <h1 align="center">Hi 👋, I'm Srajit Mishra</h1>
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcode-fi-lofi-beats-to-coderelax-to-FvBVst&psig=AOvVaw2xoKiwhIcc8tYCKIm4Sj0b&ust=1706560507191000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj8-Lf3gIQDFQAAAAAdAAAAABA4" />
-<a href="https://iconscout.com/lottie-animation/software-developer-group-5838771">Visit W3Schools.com!</a>
 
 <h3 align="center">I am an aspiring Web developer—researcher as well as a patent writer.</h3>
 
