@@ -1,9 +1,10 @@
-<img src="https://iconscout.com/lottie-animation/programmer-4375641" alt="Error">
-
+<a href="https://iconscout.com/lottie-animation/programmer-4375641">Visit W3Schools.com!</a>
 
 <h1 align="center">Hi 👋, I'm Srajit Mishra</h1>
 
 <img src="https://iconscout.com/lottie-animation/software-developer-group-5838771" alt="Error">
+<a href="https://iconscout.com/lottie-animation/software-developer-group-5838771">Visit W3Schools.com!</a>
+
 <h3 align="center">I am an aspiring Web developer—researcher as well as a patent writer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srajitm9161&label=Profile%20views&color=0e75b6&style=flat" alt="srajitm9161" /> </p>
