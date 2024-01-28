@@ -5,6 +5,8 @@
 
 <h3 align="center">I am an aspiring Web developer—researcher as well as a patent writer.</h3>
 
+<img src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srajitm9161&label=Profile%20views&color=0e75b6&style=flat" alt="srajitm9161" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srajitm9161" alt="srajitm9161" /></a> </p>
