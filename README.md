@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Srajit Mishra</h1>
 
-mg src="https://iconscout.com/lottie-animation/software-developer-group-5838771" alt="Error">
+<img src="https://iconscout.com/lottie-animation/software-developer-group-5838771" alt="Error">
 <h3 align="center">I am an aspiring Web developer—researcher as well as a patent writer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srajitm9161&label=Profile%20views&color=0e75b6&style=flat" alt="srajitm9161" /> </p>
