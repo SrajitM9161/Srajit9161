@@ -13,13 +13,13 @@
 
 - 💬 Ask me about **React, Solidity, Next.js, Java,JavaScript**
 
-- 📫 How to reach me **neetuuno123@gmail.com**
+- 📫 How to reach me **srajitmishra9190@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rynEKw3HG554STCTeTPH18s3EK9JEj54/view?usp=drive_link](https://drive.google.com/file/d/1rynEKw3HG554STCTeTPH18s3EK9JEj54/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/srajit-mishra-a40497214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i am an aspiring blockchain developer—researcher as well as a patent writer." height="30" width="40" /></a>
+<a href="srajit-mishra-a40497214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i am an aspiring blockchain developer—researcher as well as a patent writer." height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/srajitm9161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/srajitm9161/" height="30" width="40" /></a>
 </p>
 
