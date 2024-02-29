@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **srajitmishra99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rynEKw3HG554STCTeTPH18s3EK9JEj54/view?usp=drive_link](https://drive.google.com/file/d/1kjlg0qQ5JGBlMqomJTG3Z6so60ndFyff/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rynEKw3HG554STCTeTPH18s3EK9JEj54/view?usp=drive_link](https://drive.google.com/file/d/1MEx-VPflBRUVf4YA1EMd4H8ZU8WIyKwQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
